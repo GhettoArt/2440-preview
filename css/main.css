@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "destroy";
+  src: url('fonts/destroy.ttf');
+}
+@font-face {
+  font-family: "bearpaw";
+  src: url('fonts/bearpaw.ttf');
+}
+@font-face {
+  font-family: "cinzel";
+  src: url('fonts/Cinzel-Regular.otf');
+}
+body {
+  background-color: #111111;
+  color: #ffffff;
+}
+a {
+  color: #cc0000;
+}
+a:hover {
+  color: #e60000;
+  text-decoration: none;
+}
+.header {
+  text-align: center;
+  padding: 40px 0;
+  border-bottom: 1px solid #333;
+}
+.header h1 {
+  font-family: bearpaw;
+  font-size: 40em;
+  margin: -75px 0;
+}
+.header h1 .highlight {
+  color: #b30000;
+}
+.header h2 {
+  font-family: cinzel;
+  font-size: 8em;
+}
+.header .subtitle {
+  font-family: cinzel;
+  font-size: 1.3em;
+}
+.intro {
+  font-family: cinzel;
+  text-align: center;
+  font-size: 1.2em;
+  padding: 40px 0;
+  border-bottom: 1px solid #333;
+}
+.partnerships {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.partnerships li {
+  display: inline;
+  padding: 0 10px;
+}
+@media screen and (max-width: 981px) {
+  .header h1 {
+    font-size: 30em;
+  }
+}
