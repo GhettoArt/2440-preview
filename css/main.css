@@ -40,7 +40,7 @@ a:hover {
   color: #b30000;
 }
 .header h2 {
-   font-family : georgia;
+   font-family : georgia; !important
      text-align: center;
   font-size: 8em;
   font-family: fantasy;
