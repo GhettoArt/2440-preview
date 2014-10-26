@@ -40,6 +40,8 @@ a:hover {
   color: #b30000;
 }
 .header h2 {
+   font-family : georgia;
+     text-align: center;
   font-size: 8em;
   font-family: fantasy;
 }
@@ -48,8 +50,8 @@ a:hover {
   font-size: 1.3em;
 }
 .intro {
-  font-family: cinzel;
-  text-align: center;
+  font-family: 'Trebuchet MS';
+  text-align: left;
   font-size: 1.2em;
   padding: 40px 0;
   border-bottom: 1px solid #333;
