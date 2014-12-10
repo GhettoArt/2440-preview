@@ -17,6 +17,7 @@
 body {
   background-color: #111111;
   color: #ffffff;
+background: url("../img/2440-fond-site-2000x1100-sans-titre.png") no-repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
 }
 a {
   color: #cc0000;
