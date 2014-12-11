@@ -63,6 +63,10 @@ opacity :.6;
  z-index: 1;
     height: 260px;
 }
+.titleimg{
+max-width: 800px;
+    width: 100%;
+}
 .partnerships {
   list-style-type: none;
   margin: 0;
