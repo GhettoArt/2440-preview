@@ -62,6 +62,8 @@ background : black;
 opacity :.6;
  z-index: 1;
     height: 260px;
+}
+.blublu{
 	max-width: 960px;
     width: 100%;
 }
